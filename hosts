@@ -1,0 +1,8 @@
+[webservers_rhel]
+172.31.87.131
+
+[appservers_amznlnx]
+172.31.21.45
+
+[dbservers_ubuntu]
+172.31.16.12
